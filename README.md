@@ -1,7 +1,7 @@
 # Ogura san desu👋
 
 #
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunihik0&show_icons=true&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunihik0&show_icons=true&theme=vue-dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunihik0&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
