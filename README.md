@@ -1,7 +1,7 @@
 # Ogura san desu👋
 
 #
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunihik0&theme=vue&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunihik0&theme=dracula&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunihik0&show_icons=true&theme=vue-dark&count_private=true)
 
